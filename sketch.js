@@ -84,7 +84,7 @@ wall28= createSprite(520, 250, 35, 150);
 wall29= createSprite(395, 315, 35, 100);
 wall30= createSprite(352.5,250,120, 35);
 wall31= createSprite(352.5, 350, 120, 35);
-wall32= createSprite(350,390,35, 50);
+wall32= createSprite(350,390,35, 60);
 
 
 
